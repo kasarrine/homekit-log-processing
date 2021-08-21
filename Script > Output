@@ -1,0 +1,50 @@
+Last login: Wed Apr 15 02:25:19 on ttys000
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+(base) Kirks-MacBook-Pro-2016:~ ksarrine$ cd /Users/ksarrine/Downloads/LogArchive 
+(base) Kirks-MacBook-Pro-2016:LogArchive ksarrine$ python3 /Users/ksarrine/Downloads/LogArchive/LogProcessing.py
+Log1.log:
+com.apple.HomeKit:BLEBrowser -> 2
+com.apple.HomeKit:BLEWiProx -> 2
+com.apple.HomeKit:Message.XPC.Connection -> 22
+com.apple.HomeKit:Message.XPC.Transport -> 3
+com.apple.HomeKit:RemoteMessaging.DeviceMonitor -> 1
+com.apple.HomeKit:Symptoms.Manager -> 18
+com.apple.HomeKit:default -> 21
+
+
+Log2.log:
+com.apple.HomeKit:Message.XPC.Connection -> 64
+com.apple.HomeKit:Message.XPC.Transport -> 7
+com.apple.HomeKit:RemoteMessaging.HTTP -> 2
+com.apple.HomeKit:default -> 13
+
+
+Log3.log:
+com.apple.HomeKit:Accounts.AppleAccountManager -> 2
+com.apple.HomeKit:Messaging.Remote.IDS.SendOperation -> 14
+com.apple.HomeKit:RemoteMessaging.DeviceMonitor -> 6
+com.apple.HomeKit:RemoteMessaging.HTTP -> 6
+com.apple.HomeKit:default -> 7
+
+
+UnifiedLogs.log:
+com.apple.HomeKit:Accounts.AppleAccountManager -> 2
+com.apple.HomeKit:BLEBrowser -> 2
+com.apple.HomeKit:BLEWiProx -> 2
+com.apple.HomeKit:Message.XPC.Connection -> 86
+com.apple.HomeKit:Message.XPC.Transport -> 10
+com.apple.HomeKit:Messaging.Remote.IDS.SendOperation -> 14
+com.apple.HomeKit:RemoteMessaging.DeviceMonitor -> 7
+com.apple.HomeKit:RemoteMessaging.HTTP -> 8
+com.apple.HomeKit:Symptoms.Manager -> 18
+com.apple.HomeKit:default -> 41
+
+
+Pings:
+15658AD2A09F -> 1.2617518901824951
+15658AD2A09A -> 2.0
+15658AD2A09F -> ERROR
+(base) Kirks-MacBook-Pro-2016:LogArchive ksarrine$ 

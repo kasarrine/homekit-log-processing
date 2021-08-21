@@ -1,0 +1,77 @@
+2020-03-11 14:14:04.021337-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Message.XPC.Connection] [30] Sending message: HMFMessage kAccessoryConnectivityChangedNotificationKey(DC6D0A54-3813-43FD-8984-4587783C9AEF)
+2020-03-11 14:14:04.021453-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:default] Accessories are locally reachable for home 94CAD7EA-A841-4C53-A077-F9589943DA0D, peers 1
+2020-03-11 14:14:04.021499-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Message.XPC.Connection] [95] Sending message: HMFMessage kAccessoryConnectivityChangedNotificationKey(DC6D0A54-3813-43FD-8984-4587783C9AEF)
+2020-03-11 14:14:04.021799-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Message.XPC.Connection] [95] Sending message: HMFMessage kAccessoryConnectivityChangedNotificationKey(DC6D0A54-3813-43FD-8984-4587783C9AEF)
+2020-03-11 14:14:04.021817-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Message.XPC.Connection] [90] Sending message: HMFMessage kAccessoryConnectivityChangedNotificationKey(DC6D0A54-3813-43FD-8984-4587783C9AEF)
+2020-03-11 14:14:04.021973-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Message.XPC.Connection] [64] Sending message: HMFMessage kAccessoryConnectivityChangedNotificationKey(DC6D0A54-3813-43FD-8984-4587783C9AEF)
+2020-03-11 14:14:30.862977-0700  localhost homed[129]: (CoreHAP) [com.apple.HomeKit:default] [CoreHAP] Updating IP accessory server CF:68:27:F2:C7:D8 with new BonjourDevice info
+2020-03-11 14:14:30.863220-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:default] [HMDAccessory Hue color Lamp 2(8AFF506C-1B09-514A-9B2A-D68A391C0745)] Sending reachability changed notification to HMDHome with state: 'reachable'
+2020-03-11 14:14:30.863259-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:default] [HMDAccessory Hue color Lamp 2(8AFF506C-1B09-514A-9B2A-D68A391C0745)] Sending connectivity notification '1' for accessory to clients
+2020-03-11 14:14:30.863261-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:default] [HMDAccessory Kitchen2(896887A8-7743-5F4F-B911-DCE0BA41B420)] Sending reachability changed notification to HMDHome with state: 'reachable'
+2020-03-11 14:14:30.863286-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:default] [HMDAccessory Kitchen2(896887A8-7743-5F4F-B911-DCE0BA41B420)] Sending connectivity notification '1' for accessory to clients
+2020-03-11 14:14:30.863377-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:default] [HMDAccessory Hue lightstrip outdoor 1(86FF7EB1-BF90-55FF-BBD0-10DEEA3F98E4)] Sending reachability changed notification to HMDHome with state: 'reachable'
+2020-03-11 14:14:30.863463-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:default] [HMDAccessory Hue lightstrip outdoor 1(86FF7EB1-BF90-55FF-BBD0-10DEEA3F98E4)] Sending connectivity notification '1' for accessory to clients
+2020-03-11 14:14:30.863517-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:default] [HMDAccessory Kitchen1(41DA3CEA-6A29-58A6-B6A0-61FD7E29AEA8)] Sending reachability changed notification to HMDHome with state: 'reachable'
+2020-03-11 14:14:30.863540-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:default] [HMDAccessory Kitchen1(41DA3CEA-6A29-58A6-B6A0-61FD7E29AEA8)] Sending connectivity notification '1' for accessory to clients
+2020-03-11 14:14:30.918501-0700  localhost homed[129]: (CoreHAP) [com.apple.HomeKit:default] [IP Accessory Browser] Purged 1 pending remove events
+2020-03-11 14:14:30.918525-0700  localhost homed[129]: (CoreHAP) [com.apple.HomeKit:default] [CoreHAP] Updating IP accessory server E7:69:16:85:51:FF with new BonjourDevice info
+2020-03-11 14:14:30.918649-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:default] Going to detect if remote peer is in home 94CAD7EA-A841-4C53-A077-F9589943DA0D
+2020-03-11 14:14:30.918655-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:default] [HMDAccessory My ecobee(F90C717E-6120-4119-84A6-7A08775E8D7D)] Sending reachability changed notification to HMDHome with state: 'reachable'
+2020-03-11 14:14:30.918701-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:default] [HMDAccessory My ecobee(F90C717E-6120-4119-84A6-7A08775E8D7D)] Sending connectivity notification '1' for accessory to clients
+2020-03-11 14:14:30.918987-0700  localhost homed[129]: (CoreHAP) [com.apple.HomeKit:default] TXT record does not contain data for key 's#'
+2020-03-11 14:14:30.919010-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:default] Total reachable accessories 12, reachable = 1, last known reachable = 11
+2020-03-11 14:14:30.919076-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:default] [Home] Notifying home manager that we have locally reachable accessories
+2020-03-11 14:14:30.919258-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Message.XPC.Connection] [93] Sending message: HMFMessage kAccessoryConnectivityChangedNotificationKey(8649C0B3-3F91-4D1F-96D7-E7E36816780A)
+2020-03-11 14:14:30.919293-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Message.XPC.Transport] Sending message kAccessoryConnectivityChangedNotificationKey(8649C0B3-3F91-4D1F-96D7-E7E36816780A) to F90C717E-6120-4119-84A6-7A08775E8D7D (11/11 clients) : 
+2020-03-11 14:14:30.919691-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:default] Accessories are locally reachable for home 94CAD7EA-A841-4C53-A077-F9589943DA0D, peers 1
+2020-03-11 14:14:30.919716-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Message.XPC.Connection] [90] Sending message: HMFMessage kAccessoryConnectivityChangedNotificationKey(8649C0B3-3F91-4D1F-96D7-E7E36816780A)
+2020-03-11 14:14:30.919718-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Message.XPC.Connection] [110] Sending message: HMFMessage kAccessoryConnectivityChangedNotificationKey(8649C0B3-3F91-4D1F-96D7-E7E36816780A)
+2020-03-11 14:14:30.919881-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Message.XPC.Connection] [95] Sending message: HMFMessage kAccessoryConnectivityChangedNotificationKey(8649C0B3-3F91-4D1F-96D7-E7E36816780A)
+2020-03-11 14:14:30.919883-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Message.XPC.Connection] [90] Sending message: HMFMessage kAccessoryConnectivityChangedNotificationKey(8649C0B3-3F91-4D1F-96D7-E7E36816780A)
+2020-03-11 14:14:30.920015-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Message.XPC.Connection] [30] Sending message: HMFMessage kAccessoryConnectivityChangedNotificationKey(8649C0B3-3F91-4D1F-96D7-E7E36816780A)
+2020-03-11 14:14:30.920029-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Message.XPC.Connection] [64] Sending message: HMFMessage kAccessoryConnectivityChangedNotificationKey(8649C0B3-3F91-4D1F-96D7-E7E36816780A)
+2020-03-11 14:14:30.920156-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Message.XPC.Connection] [93] Sending message: HMFMessage kAccessoryConnectivityChangedNotificationKey(8649C0B3-3F91-4D1F-96D7-E7E36816780A)
+2020-03-11 14:14:31.991015-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:default] Total reachable accessories 13, reachable = 1, last known reachable = 12
+2020-03-11 14:14:31.991175-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:default] [Home] Notifying home manager that we have locally reachable accessories
+2020-03-11 14:14:31.991349-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Message.XPC.Transport] Sending message kAccessoryConnectivityChangedNotificationKey(DF1D6245-38F6-4301-9098-67535640699D) to 194ED495-B1AF-4AE4-8EF1-297BF47B3C77 (11/11 clients) : 
+{
+    HM.reachability = 9,
+    kAccessoryIsReachableKey = 1,
+}
+2020-03-11 14:14:31.991365-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Message.XPC.Connection] [93] Sending message: HMFMessage kAccessoryConnectivityChangedNotificationKey(DF1D6245-38F6-4301-9098-67535640699D)
+2020-03-11 14:14:31.991434-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Message.XPC.Transport] Sending message kAccessoryConnectivityChangedNotificationKey(3403D112-8510-492F-94F6-2FC0CEA75C33) to 194ED495-B1AF-4AE4-8EF1-297BF47B3C77 (0/11 clients) : 
+{
+    kAccessoryIsReachableKey = 1,
+}
+2020-03-11 14:14:31.991583-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Message.XPC.Connection] [95] Sending message: HMFMessage kAccessoryConnectivityChangedNotificationKey(DF1D6245-38F6-4301-9098-67535640699D)
+2020-03-11 14:14:31.991636-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Message.XPC.Connection] [93] Sending message: HMFMessage kAccessoryConnectivityChangedNotificationKey(DF1D6245-38F6-4301-9098-67535640699D)
+2020-03-11 14:14:31.991819-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Message.XPC.Connection] [30] Sending message: HMFMessage kAccessoryConnectivityChangedNotificationKey(DF1D6245-38F6-4301-9098-67535640699D)
+2020-03-11 14:14:31.991823-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Message.XPC.Connection] [95] Sending message: HMFMessage kAccessoryConnectivityChangedNotificationKey(DF1D6245-38F6-4301-9098-67535640699D)
+2020-03-11 14:14:31.991995-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Message.XPC.Connection] [90] Sending message: HMFMessage kAccessoryConnectivityChangedNotificationKey(DF1D6245-38F6-4301-9098-67535640699D)
+2020-03-11 14:14:31.992066-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Message.XPC.Connection] [64] Sending message: HMFMessage kAccessoryConnectivityChangedNotificationKey(DF1D6245-38F6-4301-9098-67535640699D)
+2020-03-11 14:14:31.992245-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Message.XPC.Connection] [110] Sending message: HMFMessage kAccessoryConnectivityChangedNotificationKey(DF1D6245-38F6-4301-9098-67535640699D)
+2020-03-11 14:14:31.992299-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Message.XPC.Connection] [30] Sending message: HMFMessage kAccessoryConnectivityChangedNotificationKey(DF1D6245-38F6-4301-9098-67535640699D)
+2020-03-11 14:14:35.280359-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Symptoms.Manager] RPCompanionLinkDevice ID BTPipe-Watch, IDS 94262026, Nm 'Gregor’s Apple Watch', Md 'Watch4,4' changed
+2020-03-11 14:14:35.280514-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Symptoms.Manager] RPCompanionLinkDevice ID BTPipe-Watch, IDS 94262026, Nm 'Gregor’s Apple Watch', Md 'Watch4,4' changed
+2020-03-11 14:14:37.810013-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Symptoms.Manager] RPCompanionLinkDevice ID b6a1577829b8, IDS 54679144, Nm 'Gregor’s MacBook Pro', Md 'MacBookPro13,3' changed
+2020-03-11 14:14:37.810210-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Symptoms.Manager] RPCompanionLinkDevice ID b6a1577829b8, IDS 54679144, Nm 'Gregor’s MacBook Pro', Md 'MacBookPro13,3' changed
+2020-03-11 14:14:54.120618-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Symptoms.Manager] RPCompanionLinkDevice ID BTPipe-Watch, IDS 94262026, Nm 'Gregor’s Apple Watch', Md 'Watch4,4' changed
+2020-03-11 14:14:54.120823-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Symptoms.Manager] RPCompanionLinkDevice ID BTPipe-Watch, IDS 94262026, Nm 'Gregor’s Apple Watch', Md 'Watch4,4' changed
+2020-03-11 14:15:00.688342-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Symptoms.Manager] RPCompanionLinkDevice ID BTPipe-Watch, IDS 94262026, Nm 'Gregor’s Apple Watch', Md 'Watch4,4' changed
+2020-03-11 14:15:00.688477-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Symptoms.Manager] RPCompanionLinkDevice ID BTPipe-Watch, IDS 94262026, Nm 'Gregor’s Apple Watch', Md 'Watch4,4' changed
+2020-03-11 14:15:05.607940-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Symptoms.Manager] RPCompanionLinkDevice ID BTPipe-Watch, IDS 94262026, Nm 'Gregor’s Apple Watch', Md 'Watch4,4' changed
+2020-03-11 14:15:05.608120-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Symptoms.Manager] RPCompanionLinkDevice ID BTPipe-Watch, IDS 94262026, Nm 'Gregor’s Apple Watch', Md 'Watch4,4' changed
+2020-03-11 14:15:18.568300-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Symptoms.Manager] RPCompanionLinkDevice ID 1aa812a54173, IDS 29636B92, Nm 'HomePod Carry', Md 'AudioAccessory1,1' changed
+2020-03-11 14:15:18.568801-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Symptoms.Manager] RPCompanionLinkDevice ID 1aa812a54173, IDS 29636B92, Nm 'HomePod Carry', Md 'AudioAccessory1,1' changed
+2020-03-11 14:15:24.625440-0700  localhost homed[129]: (CoreHAP) [com.apple.HomeKit:BLEBrowser] [BTLE Accessory Browser] Received request to perform reachability scan for accessories
+2020-03-11 14:15:24.625569-0700  localhost homed[129]: (CoreHAP) [com.apple.HomeKit:BLEBrowser] [BTLE Accessory Browser] Skip 1.0 reachability: Scan State: 0, 1.0 Accessories: NO
+2020-03-11 14:15:24.625672-0700  localhost homed[129]: (CoreHAP) [com.apple.HomeKit:BLEWiProx] [HAPWiProxBLE] Restarting High Priority Passive Scan to probe reachability
+2020-03-11 14:15:29.967753-0700  localhost homed[129]: (CoreHAP) [com.apple.HomeKit:BLEWiProx] [HAPWiProxBLE] Starting Low Priority Scan
+2020-03-11 14:16:36.538896-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Symptoms.Manager] RPCompanionLinkDevice ID BTPipe-Watch, IDS 94262026, Nm 'Gregor’s Apple Watch', Md 'Watch4,4' changed
+2020-03-11 14:16:36.539031-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Symptoms.Manager] RPCompanionLinkDevice ID BTPipe-Watch, IDS 94262026, Nm 'Gregor’s Apple Watch', Md 'Watch4,4' changed
+2020-03-11 14:16:43.468907-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Symptoms.Manager] RPCompanionLinkDevice ID BTPipe-Watch, IDS 94262026, Nm 'Gregor’s Apple Watch', Md 'Watch4,4' changed
+2020-03-11 14:16:43.469067-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Symptoms.Manager] RPCompanionLinkDevice ID BTPipe-Watch, IDS 94262026, Nm 'Gregor’s Apple Watch', Md 'Watch4,4' changed
+2020-03-11 14:17:09.283566-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:RemoteMessaging.DeviceMonitor] com.apple.HomeKit:default] Received ping (15658AD2A09A)
+2020-03-11 14:18:43.468907-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Symptoms.Manager] RPCompanionLinkDevice ID BTPipe-Watch, IDS 94262026, Nm 'Gregor’s Apple Watch', Md 'Watch4,4' changed
+2020-03-11 14:19:43.469067-0700  localhost homed[129]: (HomeKitDaemon) [com.apple.HomeKit:Symptoms.Manager] RPCompanionLinkDevice ID BTPipe-Watch, IDS 94262026, Nm 'Gregor’s Apple Watch', Md 'Watch4,4' changed
+
